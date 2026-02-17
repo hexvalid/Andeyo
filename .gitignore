@@ -1,0 +1,8 @@
+# Local IDE files
+.idea/
+
+# Local runtime configuration
+config.json
+
+# Local binaries
+andeyo
