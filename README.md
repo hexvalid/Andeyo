@@ -18,7 +18,7 @@ cp config.example.json config.json
 ```json
 {
   "telegram_bot_token": "YOUR_BOT_TOKEN_HERE",
-  "authorized_chat_ids": [31415926, 27182818]
+  "authorized_chat_ids": [1234, 5678]
 }
 ```
 
